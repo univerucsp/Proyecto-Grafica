@@ -1,0 +1,8 @@
+# Material Library
+newmtl Material_0
+Ka 1.000 1.000 1.000  # Color ambiente
+Kd 1.000 1.000 1.000  # Color difuso
+Ks 0.000 0.000 0.000  # Color especular
+d 0.5                 # Transparencia (0.0 es completamente transparente, 1.0 es completamente opaco)
+illum 2               # Iluminación
+

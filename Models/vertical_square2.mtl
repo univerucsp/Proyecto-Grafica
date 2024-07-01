@@ -1,0 +1,8 @@
+# Material para el objeto
+newmtl material1
+Ka 1.0 1.0 1.0   # Color ambiental (blanco)
+Kd 1.0 1.0 1.0   # Color difuso (blanco)
+Ks 0.0 0.0 0.0   # Color especular (negro)
+Ns 0.0          # Coeficiente de brillo (0 a 1000)
+d 1.0           # Factor de transparencia (0.0 a 1.0, donde 1.0 es completamente opaco)
+illum 2         # Modelo de iluminación (2 para iluminación difusa)
